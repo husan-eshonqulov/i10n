@@ -23,7 +23,7 @@ msgstr ""
 #: data/org.gnome.Calculator.desktop.in:3 src/gnome-calculator.vala:81
 #: src/gnome-calculator.vala:320 src/ui/math-window.ui:107
 msgid "Calculator"
-msgstr ""
+msgstr "Kalkulator"
 
 #: data/org.gnome.Calculator.appdata.xml.in:8
 #: data/org.gnome.Calculator.desktop.in:4
